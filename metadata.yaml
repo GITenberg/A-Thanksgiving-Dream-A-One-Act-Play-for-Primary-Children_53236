@@ -1,0 +1,25 @@
+_repo: A-Thanksgiving-Dream-A-One-Act-Play-for-Primary-Children_53236
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Preston, Effa E. (Effa Estelle)
+    birthdate: 1884
+    deathdate: 1975
+    gutenberg_agent_id: '47281'
+    url: http://www.gutenberg.org/2009/agents/47281
+description: ''
+gutenberg_issued: '2016-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s plays'
+- !lcc 'PZ'
+- !lcsh 'Thanksgiving Day -- Juvenile drama'
+- GITenberg
+title: 'A Thanksgiving Dream: A One Act Play for Primary Children'
+url: http://www.gutenberg.org/ebooks/53236
