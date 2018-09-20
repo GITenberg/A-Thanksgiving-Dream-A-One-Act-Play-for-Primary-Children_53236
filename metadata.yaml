@@ -1,5 +1,8 @@
 _repo: A-Thanksgiving-Dream-A-One-Act-Play-for-Primary-Children_53236
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53236-h/images/cover.jpg
 creator:
   author:
     agent_name: Preston, Effa E. (Effa Estelle)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47281'
     url: http://www.gutenberg.org/2009/agents/47281
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53236#A-Thanksgiving-Dream-A-One-Act-Play-for-Primary-Children
 gutenberg_issued: '2016-10-09'
 gutenberg_type: Text
 identifiers:
